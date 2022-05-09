@@ -12,7 +12,7 @@ public class Matrix {
 //Private Class Variable Definitions -- belongs to each object
 private int m_rows;
 private int n_cols;
-private double[][] arr;
+public double[][] arr;
 
 // -------------------Constructors--------------------------------
 //Construct[1] given m & n as parameters
